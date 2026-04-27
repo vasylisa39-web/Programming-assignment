@@ -25,9 +25,9 @@ pip install sympy numpy matplotlib
 
 ### **Where users can get help**
 Users can refer to:
-[Python documentation:](https://docs.python.org)
-[SymPy documentation:](https://docs.sympy.org)
-[Matplotlib documentation:](https://matplotlib.org)
+[Python documentation,](https://docs.python.org)
+[SymPy documentation,](https://docs.sympy.org)
+[Matplotlib documentation.](https://matplotlib.org)
 
 ### **Who maintains and contributes**
 This project is developed and maintained by a single student developer as part of a mathematics and programming learning project. Future improvements and updates may be added to expand functionality and usability.
