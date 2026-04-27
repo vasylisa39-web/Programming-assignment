@@ -280,10 +280,9 @@ def show_volume_graph():
         a = sp.sympify(lower_limit_entry.get()).evalf() #lower limit of the function 
         b = sp.sympify(upper_limit_entry.get()).evalf() #upper limit
 
-        #checking if limits are the same
         a = float(a)
         b = float(b)
-        if a == b:
+        if a == b: #checking if limits are the same
             messagebox.showinfo("Info", "Lower and upper limits are the same, result is 0")
             return
 
