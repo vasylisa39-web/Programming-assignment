@@ -14,7 +14,7 @@ x = sp.symbols('x')
 
 # CREATING MAIN WINDOW
 
-root = tk.Tk() # creates main application window (GUU)
+root = tk.Tk() # creates main application window (GUI)
 #root = main window controller
 root.title("Simple Math Calculator") # sets window title
 
